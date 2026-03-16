@@ -1,6 +1,6 @@
 {
-  "name": "Trading Calculator",
-  "short_name": "Trading Calc",
+  "name": "Mono Calculator",
+  "short_name": "Mono Calc",
   "description": "Position size and leverage calculator for trading",
   "start_url": "./",
   "display": "standalone",

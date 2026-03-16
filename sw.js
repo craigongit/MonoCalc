@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trading-calc-v1';
+const CACHE_NAME = 'mono-calc-v1';
 const urlsToCache = [
   './',
   './index.html',
